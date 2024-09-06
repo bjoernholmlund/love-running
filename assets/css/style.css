@@ -14,9 +14,7 @@ font-weight: 300;
 color: #3a3a3a;
 } 
 
-h1, h2  
-
-{
+h1, h2  {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -37,7 +35,6 @@ h1, h2
   } 
 
   #menu, #logo {
-   
       line-height: 75px;
   } 
   
@@ -126,26 +123,26 @@ h1, h2
 
    /* club ethos */
 
-   #club-ethos {
+#club-ethos {
     height: 600px;
 }
 
 #left-about {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-    background-color: blue;
+  padding-top: 30px;
+  width: 33%;
+  float: left;
+  background-color: blue;
 }
 
 #right-about {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-    background-color: silver;
+  padding-top: 30px;
+  width: 33%;
+  float: right;
+  background-color: silver;
 }
 
 #center-about {
-    width: 33%;
-    margin: 0 auto;
-    background-color: green;
+  width: 33%;
+  margin: 0 auto;
+  background-color: green;
 }
